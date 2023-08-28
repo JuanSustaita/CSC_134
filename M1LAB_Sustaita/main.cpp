@@ -10,6 +10,13 @@ using namespace std;
 
 int main()
 {
+/*
+    CSC 134
+    M1LAB
+    Juan Sustaita
+    8/24/23
+*/
+
   // This will simulate an apple orchard.
   // My name
   string name = "Juan Sustaita";
