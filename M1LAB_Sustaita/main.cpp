@@ -1,10 +1,3 @@
-/*
-CSC 134
-M1LAB
-Juan Sustaita
-8/24/23
-*/
-
 #include <iostream>
 using namespace std;
 
@@ -25,13 +18,12 @@ int main()
   double pricePerApple = 0.25;
   double totalPrice = (double) apples * pricePerApple;
 
-  cout << "Welcome to " << name;
-  cout << "'s apple orchard." << endl;
+  cout << "Welcome to " << name << "'s apple orchard" << endl;
 
   cout << "We have " << apples << " apples in stock" << endl;
 
   cout << "Apples are currently $" << pricePerApple <<" each." << endl;
 
-  cout << "If you want them all, it wil be $" << totalPrice << endl;
+  cout << "If you want them all, it will be $" << totalPrice << endl;
 
 }
