@@ -17,8 +17,8 @@ int main()
     cout << "General Crate Pricing System" << endl;
     // declare variable
 
-    const double COST_PER_CUBIC_FOOT = 0.23;
-    const double CHARGE_PER_CUBIC_FOOT = 0.5;
+    const double COST_PER_CUBIC_FOOT = 0.3;
+    const double CHARGE_PER_CUBIC_FOOT = 0.52;
 
     double length, width, height; // in feet
     double volume; // in cubic foot
