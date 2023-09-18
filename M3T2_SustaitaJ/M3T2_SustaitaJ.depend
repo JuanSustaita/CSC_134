@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695052080 source:c:\users\sustaitj2750\documents\github\csc_134\m3t2_sustaitaj\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
