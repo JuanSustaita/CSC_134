@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697037992 source:c:\users\sustaitj2750\documents\github\csc_134\m4lab2_sustaitaj\m4lab2_sustaitaj\main.cpp
+	<iostream>
+	"functions.h"
+
+1697038423 c:\users\sustaitj2750\documents\github\csc_134\m4lab2_sustaitaj\m4lab2_sustaitaj\functions.h
+	<cstdlib>
+	<ctime>
+
