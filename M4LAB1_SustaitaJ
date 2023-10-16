@@ -1,1 +1,33 @@
+/*
+CSC 134
+M4LAB1 - ASCII Boxes
+SustaitaJ
+10/16/23
+*/
 
+// the program will do the following:
+// ask the user for the dimansions of a box (w and h)
+// draw a line w long * characters
+// draw a line h long * characters
+// this is two seperate loops
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int width, height;
+
+    cout << "Enter the width: ";
+    cin >> width;
+    cout << "Enter the height: ";
+    cin >> height;
+
+    for (int i = 0; i < height; i++) {
+        for (int j = 0; j < width; j++) {
+            cout << "* ";
+        }
+        cout << endl;
+    }
+
+    return 0;
+}
